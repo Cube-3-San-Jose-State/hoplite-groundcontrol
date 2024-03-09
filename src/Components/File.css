@@ -1,0 +1,8 @@
+.file-card{
+    background-color: rgb(51, 112, 255);
+    padding: 10px;
+    border-style: solid;
+    border: color(srgb rgba(26, 125, 164, 0.609));
+    overflow: hidden;
+    margin-top: 5px;
+}

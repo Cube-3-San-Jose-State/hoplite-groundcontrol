@@ -1,0 +1,20 @@
+.folder-child {
+    overflow: hidden;
+    .folder-title{
+        cursor: pointer;
+    }
+    .card-collapse {
+      overflow: hidden;
+      transition: height 0.3s ease-out;
+    }
+    h2 {margin-top: 5px !important;}
+}
+.folder-container{
+    background-color: rgb(51, 112, 255);
+    padding: 10px;
+    border-style: solid;
+    border: color(srgb rgba(26, 125, 164, 0.609));
+    overflow: hidden;
+    margin-top: 5px;
+}
+  

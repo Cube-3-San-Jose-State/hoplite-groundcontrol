@@ -1,0 +1,12 @@
+.sidebar{
+    width: 25vh;
+    height: 90vh;
+    padding: 5px;
+    color: #ffffff;
+    background-color: rgb(24, 24, 28);
+    border-style: solid;
+    border-color: rgb(27, 0, 0);
+    font-weight: 600;
+    font-size: 20px;
+    display: inline-flex;
+}

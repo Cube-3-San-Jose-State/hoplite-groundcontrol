@@ -1,0 +1,8 @@
+.canvas-container{
+    width: 80vh;
+    height: 90vh;
+    padding: 5px;
+    background-color: rgb(142, 142, 249);
+    border-style: solid;
+    border-color: rgb(27, 0, 0);
+    display: inline-flex;
